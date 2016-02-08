@@ -1,4 +1,6 @@
-# Casper
+# Casper 2
+
+This is my modified copy of the Ghost Casper theme.
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
 
